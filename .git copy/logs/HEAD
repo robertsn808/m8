@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 0b490736e28db98818017983e4664cbc8481ca05 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749555188 +0000	commit (initial): Initial commit
+0b490736e28db98818017983e4664cbc8481ca05 713033afd137c9ce16e1bdac4b7544cb10bd97ab robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749555188 +0000	commit: Started building your app
+713033afd137c9ce16e1bdac4b7544cb10bd97ab 579354cf02aaadea8128cf4bf2f6f84f45920329 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749555754 +0000	commit: Set up base website and contact form for potential IT clients
+579354cf02aaadea8128cf4bf2f6f84f45920329 760320a54ce496fded0ccfff5f044155047e3f1e robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749599393 +0000	commit: Add forms to create new clients and submit service requests for assistance
+760320a54ce496fded0ccfff5f044155047e3f1e 2f262aa31986c6cf684d4ea9852951d48ceb53b8 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749599483 +0000	commit: Enable adding clients and requests through dedicated dialog boxes
+2f262aa31986c6cf684d4ea9852951d48ceb53b8 cf5d1eed2798e09407a94a8f317558ba6be6fb99 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749603709 +0000	commit: Allow administrators to add new clients to the database via the dashboard
+cf5d1eed2798e09407a94a8f317558ba6be6fb99 cb891947ab91e32d268175fa6f8dfb7a16958100 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749622574 +0000	commit: Saved your changes before rolling back
+cb891947ab91e32d268175fa6f8dfb7a16958100 4c383f58fb70737d59852a9dac17fb0e380c78db robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749622647 +0000	commit: Add image to help explain the issue with selecting a client
+4c383f58fb70737d59852a9dac17fb0e380c78db 4be9810c72b70c02616b61366bc9295d07711080 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749622737 +0000	commit: Enable conversion of leads into clients directly from the dashboard
+4be9810c72b70c02616b61366bc9295d07711080 31f13b45c7a9987abc3c069c354c8943d71e986a robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749623163 +0000	commit: Add system to monitor repair progress and track client incidents
+31f13b45c7a9987abc3c069c354c8943d71e986a 5297e17085fc18e069b0b4cd9bd3b5684fda3afb robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749623254 +0000	commit: Provide a checklist to monitor the progress of client repair requests
+5297e17085fc18e069b0b4cd9bd3b5684fda3afb cac15fbca8fcf17f1c4233a919511432854295ec robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749623300 +0000	commit: Show repair progress for each client with visual status indicators
+cac15fbca8fcf17f1c4233a919511432854295ec c3c6706f002121ca8f70c8d790a7a2ad65bf57e7 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749624888 +0000	commit: Enable real-time communication for service requests and technician accounts
+c3c6706f002121ca8f70c8d790a7a2ad65bf57e7 2a05f962a92c56aae4118fe63a6fdbb78c46738c robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749624989 +0000	commit: Show full service details and tech profile with linked personal emails
+2a05f962a92c56aae4118fe63a6fdbb78c46738c 9e7d5d636881c1ef2ee09b6764942b085c372f00 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749625021 +0000	commit: Give technicians a profile section where they may connect their email
+9e7d5d636881c1ef2ee09b6764942b085c372f00 bac6a142f6d6abdf50b753e7dc7e1b3de596ae27 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749625564 +0000	commit: Ensure each user has only one tech profile to streamline email setup
+bac6a142f6d6abdf50b753e7dc7e1b3de596ae27 a646739bd68a8cc81bffa66685e86b32b655d5c4 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749626057 +0000	commit: Enable clients to create accounts and track their repair requests
+a646739bd68a8cc81bffa66685e86b32b655d5c4 c577df2332ce3f75b899ba9784a952404cf843c6 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749632846 +0000	commit: Show available technicians on a map and allow techs to set availability
+c577df2332ce3f75b899ba9784a952404cf843c6 2893f667229f5e964fe17dd9cc07b649d7fbdef0 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749632989 +0000	commit: Enable clients to find available technicians and view their locations
+2893f667229f5e964fe17dd9cc07b649d7fbdef0 645d94850bad10701d26519ed7ca1ed7ff7027df robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749633048 +0000	commit: Allow technicians to manage their profiles and client visibility preferences
+645d94850bad10701d26519ed7ca1ed7ff7027df b3b95aad3019dda9fa035288f4926d5ecb1ac6a1 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749635127 +0000	commit: Give clients options to log in to existing accounts or create new ones
+b3b95aad3019dda9fa035288f4926d5ecb1ac6a1 28b7146c4968b4b9b838a8a165b7f81ded15f853 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749635683 +0000	commit: Showcase technician expertise with certifications, skills, and service history
+28b7146c4968b4b9b838a8a165b7f81ded15f853 d798c1898778709f42f6c6bed34d747e64d07de5 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749635880 +0000	commit: Showcase technician skills, certifications, and completed service history
+d798c1898778709f42f6c6bed34d747e64d07de5 e9390447caaa1e7564cb9b16af9c95c1c5bfa2ac robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749636028 +0000	commit: Enable technicians to showcase credentials and completed service history
+e9390447caaa1e7564cb9b16af9c95c1c5bfa2ac b16236b2f9b9b8096b8deabd894e8cec2c58afea robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749637515 +0000	commit: Incorporate price negotiation feature into the support ticket interface
+b16236b2f9b9b8096b8deabd894e8cec2c58afea ac4ce0c388e24fa68b5bcd1028c7e719106f8bc8 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749638071 +0000	commit: Improve the ability to view and read support ticket details in the dialog
+ac4ce0c388e24fa68b5bcd1028c7e719106f8bc8 10b9cf5bf608525cd33d13201abece7882094a83 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749638126 +0000	commit: Ensure clients can send messages and technicians receive communications
+10b9cf5bf608525cd33d13201abece7882094a83 a6e30c01c441bf2a8861e3b81746f72f6ef4a093 robertsn2 <43683229-robertsn2@users.noreply.replit.com> 1749638230 +0000	commit: Enable clients to send and receive messages within the support ticket chat
+a6e30c01c441bf2a8861e3b81746f72f6ef4a093 570304fc7a80f2fb66abb669c29ca52ac74818f5 robertsn808 <robertsn@hawaii.edu> 1749645922 -1000	commit: IT Market Place files from Replit
+570304fc7a80f2fb66abb669c29ca52ac74818f5 570304fc7a80f2fb66abb669c29ca52ac74818f5 robertsn808 <robertsn@hawaii.edu> 1749647600 -1000	checkout: moving from main to itmarketplace
+570304fc7a80f2fb66abb669c29ca52ac74818f5 42fad016b8adb7bbaa69748f05b1dab8cadf1de8 robertsn808 <robertsn@hawaii.edu> 1749648135 -1000	commit: test push
+42fad016b8adb7bbaa69748f05b1dab8cadf1de8 bab20ddcaf30348bb580aed127758a11333c66d7 robertsn808 <robertsn@hawaii.edu> 1749649285 -1000	commit: test
+bab20ddcaf30348bb580aed127758a11333c66d7 ce95905d764283cfbd84b43dca6c245d521a110e robertsn808 <robertsn@hawaii.edu> 1749649531 -1000	commit: test
+ce95905d764283cfbd84b43dca6c245d521a110e 9fe279366d4fb6fa10c94b5ee96b27d71cb36a90 robertsn808 <robertsn@hawaii.edu> 1749649660 -1000	commit: t
+9fe279366d4fb6fa10c94b5ee96b27d71cb36a90 b146326527739b336ebd458bac876797d91dfdc6 robertsn808 <robertsn@hawaii.edu> 1749649818 -1000	commit: t
+b146326527739b336ebd458bac876797d91dfdc6 1c170122dfb6b53ef737fa0b0e5a3c2586bb752c robertsn808 <robertsn@hawaii.edu> 1749651044 -1000	commit: t
+1c170122dfb6b53ef737fa0b0e5a3c2586bb752c fc4223ca206ed4b8edbb90bcb064003e73d3d946 robertsn808 <robertsn@hawaii.edu> 1749664406 -1000	commit: test
+fc4223ca206ed4b8edbb90bcb064003e73d3d946 ae486f02fdeeed3cc1e8003e1508b4784b223b33 robertsn808 <robertsn@hawaii.edu> 1749664640 -1000	commit: test
+ae486f02fdeeed3cc1e8003e1508b4784b223b33 88ab0005ea6641b4a07cb1497b9dc9b7aa88f708 robertsn808 <robertsn@hawaii.edu> 1749664815 -1000	commit: Payload
+88ab0005ea6641b4a07cb1497b9dc9b7aa88f708 bd85b5ad107698ddad4670214dc1a9ad51d60eb0 robertsn808 <robertsn@hawaii.edu> 1749665125 -1000	commit: workflow
+bd85b5ad107698ddad4670214dc1a9ad51d60eb0 6809c154aa19446a6467dc75f724558397b3d14f robertsn808 <robertsn@hawaii.edu> 1749665275 -1000	commit: commit
+6809c154aa19446a6467dc75f724558397b3d14f 944797bdbd9c901146c3dfdfcfbbcc284d04f6d5 robertsn808 <robertsn@hawaii.edu> 1749685674 -1000	commit: lol
+944797bdbd9c901146c3dfdfcfbbcc284d04f6d5 33160214a72dfc05bb3a30ea57804fb090cb041b robertsn808 <robertsn@hawaii.edu> 1749806025 -1000	commit: test
